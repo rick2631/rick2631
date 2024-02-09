@@ -5,8 +5,8 @@
 ¡Hola! Soy [Richar], un [desarrollador full-stack]  Bienvenido/a a mi perfil de GitHub, donde comparto mis proyectos y contribuciones a la comunidad de desarrollo.
 
  ## Tecnologias que manejó 💻
- [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
- JavaScript | HTML | CSS | React | Redux | React Native | Typescript | NodeJS | ExpressJs | PostgreSQL |
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,git)](https://skillicons.dev)
+  NodeJS 
  
 ## Acerca de mí 🙋‍♂️
 
