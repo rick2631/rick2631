@@ -6,7 +6,7 @@
 
  ## Tecnologias que manejó 💻
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,git)](https://skillicons.dev)
-  NodeJS 
+  
  
 ## Acerca de mí 🙋‍♂️
 
